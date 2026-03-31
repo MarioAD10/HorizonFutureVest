@@ -1,0 +1,39 @@
+﻿@model Application.ViewModels.CountryIndicatorViewModel
+
+@{
+    ViewData["Title"] = "Crear Indicador de País";
+}
+
+<div class="container mt-4">
+    <div class="card">
+        <div class="card-body">
+            <h2 class="mb-4">Crear Indicador de País</h2>
+            <form asp-action="Create">
+                <div class="mb-3">
+                    <label asp-for="CountryId" class="form-label">ID del País</label>
+                    <input asp-for="CountryId" class="form-control" />
+                    <span asp-validation-for="CountryId" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="MacroIndicatorId" class="form-label">ID del Indicador Macro</label>
+                    <input asp-for="MacroIndicatorId" class="form-control" />
+                    <span asp-validation-for="MacroIndicatorId" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Value" class="form-label">Valor</label>
+                    <input asp-for="Value" class="form-control" />
+                    <span asp-validation-for="Value" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Year" class="form-label">Año</label>
+                    <input asp-for="Year" class="form-control" />
+                    <span asp-validation-for="Year" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-primary bg-navy">Crear</button>
+                <a asp-action="Index" class="btn btn-secondary ms-2">Cancelar</a>
+            </form>
+        </div>
+    </div>
+</div>
+
+

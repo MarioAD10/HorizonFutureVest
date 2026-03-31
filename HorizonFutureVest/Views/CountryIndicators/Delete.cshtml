@@ -1,0 +1,26 @@
+﻿@model Application.ViewModels.CountryIndicatorViewModel
+
+@{
+    ViewData["Title"] = "Eliminar Indicador de País";
+}
+
+<div class="container mt-4">
+    <div class="card border-danger">
+        <div class="card-body">
+            <h2 class="mb-4 text-danger">Eliminar Indicador de País</h2>
+            <h4 class="mb-3">¿Estás seguro que quieres eliminar este indicador?</h4>
+            <div class="mb-4">
+                <strong>País:</strong> @Model.CountryId<br />
+                <strong>Indicador Macro:</strong> @Model.MacroIndicatorId<br />
+                <strong>Valor:</strong> @Model.Value<br />
+                <strong>Año:</strong> @Model.Year
+            </div>
+            <form asp-action="Delete">
+                <input type="hidden" asp-for="Id" />
+                <button type="submit" class="btn btn-danger">Eliminar</button>
+                <a asp-action="Index" class="btn btn-secondary ms-2">Cancelar</a>
+            </form>
+        </div>
+    </div>
+</div>
+

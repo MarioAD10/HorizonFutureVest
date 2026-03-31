@@ -1,0 +1,141 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HorizonFutureVest
+build_property.RootNamespace = HorizonFutureVest
+build_property.ProjectDir = C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest\HorizonFutureVest\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest\HorizonFutureVest
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/Countries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-9nouzb48e2
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/Countries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-6vwrcqdklo
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/Countries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-acmv77too0
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/Countries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jgllnc33do
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/Countries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-ixerut6b9i
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/CountryIndicators/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeUluZGljYXRvcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-3owykyawg8
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/CountryIndicators/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeUluZGljYXRvcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-anu8a39yk3
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/CountryIndicators/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeUluZGljYXRvcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-vbrf4hjecz
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/CountryIndicators/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeUluZGljYXRvcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-2f8z8w0d7l
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/CountryIndicators/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeUluZGljYXRvcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1cdmitbhp2
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/MacroIndicators/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjcm9JbmRpY2F0b3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-xxzt9qtz73
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/MacroIndicators/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjcm9JbmRpY2F0b3JzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-ylkz0qq8rz
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/MacroIndicators/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjcm9JbmRpY2F0b3JzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-m7vskns4lx
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/MacroIndicators/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjcm9JbmRpY2F0b3JzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ta9s9eqt94
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/MacroIndicators/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjcm9JbmRpY2F0b3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-r9xd55o0jc
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/Ranking/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFua2luZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-8extm3ko9n
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/ReturnRateConfigs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0dXJuUmF0ZUNvbmZpZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-y85qxrxaeh
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/ReturnRateConfigs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0dXJuUmF0ZUNvbmZpZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-njkdpmclv1
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/ReturnRateConfigs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0dXJuUmF0ZUNvbmZpZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-7hxbrqtnaa
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/ReturnRateConfigs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0dXJuUmF0ZUNvbmZpZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-l05v63860y
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/ReturnRateConfigs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0dXJuUmF0ZUNvbmZpZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vy6kstirii
+
+[C:/Users/Owner/Desktop/ITLA/5TO CUATRIMESTRE/Programación III/HorizonFutureVest/HorizonFutureVest/HorizonFutureVest/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lw3ade613e

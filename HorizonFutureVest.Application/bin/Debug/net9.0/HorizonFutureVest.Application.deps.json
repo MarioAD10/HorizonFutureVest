@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "HorizonFutureVest.Application/1.0.0": {
+        "dependencies": {
+          "HorizonFutureVest.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "HorizonFutureVest.Application.dll": {}
+        }
+      },
+      "HorizonFutureVest.Persistence/1.0.0": {
+        "runtime": {
+          "HorizonFutureVest.Persistence.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HorizonFutureVest.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HorizonFutureVest.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

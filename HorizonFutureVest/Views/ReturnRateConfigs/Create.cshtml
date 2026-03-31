@@ -1,0 +1,30 @@
+﻿@model Application.ViewModels.ReturnRateConfigViewModel
+
+@{
+    ViewData["Title"] = "Crear Configuración de Tasa de Retorno";
+}
+
+<div class="container mt-4">
+    <div class="card">
+        <div class="card-body">
+            <h2 class="mb-4">Crear Configuración de Tasa de Retorno</h2>
+            <form asp-action="Create">
+                <div class="mb-3">
+                    <label asp-for="MinRate" class="form-label"></label>
+                    <input asp-for="MinRate" class="form-control" />
+                    <span asp-validation-for="MinRate" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="MaxRate" class="form-label"></label>
+                    <input asp-for="MaxRate" class="form-control" />
+                    <span asp-validation-for="MaxRate" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-primary bg-navy">Crear</button>
+                <a asp-action="Index" class="btn btn-secondary ms-2">Cancelar</a>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+

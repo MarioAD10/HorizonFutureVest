@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Persistence\bin\Debug\net9.0\HorizonFutureVest.Persistence.deps.json
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Persistence\bin\Debug\net9.0\HorizonFutureVest.Persistence.dll
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Persistence\bin\Debug\net9.0\HorizonFutureVest.Persistence.pdb
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Persistence\obj\Debug\net9.0\HorizonFutureVest.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Persistence\obj\Debug\net9.0\HorizonFutureVest.Persistence.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Persistence\obj\Debug\net9.0\HorizonFutureVest.Persistence.AssemblyInfo.cs
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Persistence\obj\Debug\net9.0\HorizonFutureVest.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Persistence\obj\Debug\net9.0\HorizonFutureVest.Persistence.dll
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Persistence\obj\Debug\net9.0\refint\HorizonFutureVest.Persistence.dll
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Persistence\obj\Debug\net9.0\HorizonFutureVest.Persistence.pdb
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Persistence\obj\Debug\net9.0\ref\HorizonFutureVest.Persistence.dll

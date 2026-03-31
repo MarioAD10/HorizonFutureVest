@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Application.ViewModels.CountryIndicatorViewModel>
+
+@{
+    ViewData["Title"] = "Indicadores de País";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="mb-0">Indicadores de País</h2>
+        <a asp-action="Create" class="btn btn-primary bg-navy">
+            <i class="bi bi-plus"></i> Crear Nuevo
+        </a>
+    </div>
+
+    <div class="card">
+        <div class="card-body">
+            <table class="table table-hover">
+                <thead class="table-light">
+                    <tr>
+                        <th>ID del País</th>
+                        <th>ID del Indicador Macro</th>
+                        <th>Valor</th>
+                        <th>Año</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.CountryId</td>
+                            <td>@item.MacroIndicatorId</td>
+                            <td>@item.Value</td>
+                            <td>@item.Year</td>
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="text-primary">Editar</a> |
+                                <a asp-action="Details" asp-route-id="@item.Id" class="text-secondary">Detalles</a> |
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="text-danger">Eliminar</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

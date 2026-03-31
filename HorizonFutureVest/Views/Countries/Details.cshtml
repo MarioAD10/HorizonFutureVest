@@ -1,0 +1,23 @@
+﻿@model Application.ViewModels.CountryViewModel
+
+@{
+    ViewData["Title"] = "Detalles del País";
+}
+
+<div class="container mt-4">
+    <div class="card">
+        <div class="card-body">
+            <h2 class="mb-4">Detalles del País</h2>
+            <dl class="row">
+                <dt class="col-sm-3">Nombre</dt>
+                <dd class="col-sm-9">@Model.Name</dd>
+                <dt class="col-sm-3">Código ISO</dt>
+                <dd class="col-sm-9">@Model.IsoCode</dd>
+            </dl>
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary bg-navy">Editar</a>
+            <a asp-action="Index" class="btn btn-secondary ms-2">Volver</a>
+        </div>
+    </div>
+</div>
+
+

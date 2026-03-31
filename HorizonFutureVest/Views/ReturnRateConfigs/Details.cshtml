@@ -1,0 +1,24 @@
+﻿@model Application.ViewModels.ReturnRateConfigViewModel
+
+@{
+    ViewData["Title"] = "Detalles de la Configuración de Tasa de Retorno";
+}
+
+<div class="container mt-4">
+    <div class="card">
+        <div class="card-body">
+            <h2 class="mb-4">Detalles de la Configuración de Tasa de Retorno</h2>
+            <dl class="row">
+                <dt class="col-sm-4">Tasa Mínima</dt>
+                <dd class="col-sm-8">@Model.MinRate</dd>
+                <dt class="col-sm-4">Tasa Máxima</dt>
+                <dd class="col-sm-8">@Model.MaxRate</dd>
+            </dl>
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary bg-navy">Editar</a>
+            <a asp-action="Index" class="btn btn-secondary ms-2">Volver</a>
+        </div>
+    </div>
+</div>
+
+
+

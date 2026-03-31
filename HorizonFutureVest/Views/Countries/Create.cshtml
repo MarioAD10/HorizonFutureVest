@@ -1,0 +1,28 @@
+﻿@model Application.ViewModels.CountryViewModel
+
+@{
+    ViewData["Title"] = "Crear País";
+}
+
+<div class="container mt-4">
+    <div class="card">
+        <div class="card-body">
+            <h2 class="mb-4">Crear País</h2>
+            <form asp-action="Create">
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label"></label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="IsoCode" class="form-label"></label>
+                    <input asp-for="IsoCode" class="form-control" />
+                    <span asp-validation-for="IsoCode" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-primary bg-navy">Crear</button>
+                <a asp-action="Index" class="btn btn-secondary ms-2">Cancelar</a>
+            </form>
+        </div>
+    </div>
+</div>
+

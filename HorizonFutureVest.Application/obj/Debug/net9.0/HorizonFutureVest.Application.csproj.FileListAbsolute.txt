@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Application\bin\Debug\net9.0\HorizonFutureVest.Application.deps.json
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Application\bin\Debug\net9.0\HorizonFutureVest.Application.dll
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Application\bin\Debug\net9.0\HorizonFutureVest.Application.pdb
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Application\bin\Debug\net9.0\HorizonFutureVest.Persistence.dll
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Application\bin\Debug\net9.0\HorizonFutureVest.Persistence.pdb
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Application\obj\Debug\net9.0\HorizonFutureVest.Application.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Application\obj\Debug\net9.0\HorizonFutureVest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Application\obj\Debug\net9.0\HorizonFutureVest.Application.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Application\obj\Debug\net9.0\HorizonFutureVest.Application.AssemblyInfo.cs
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Application\obj\Debug\net9.0\HorizonFutureVest.Application.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Application\obj\Debug\net9.0\HorizonF.79D7F426.Up2Date
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Application\obj\Debug\net9.0\HorizonFutureVest.Application.dll
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Application\obj\Debug\net9.0\refint\HorizonFutureVest.Application.dll
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Application\obj\Debug\net9.0\HorizonFutureVest.Application.pdb
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest.Application\obj\Debug\net9.0\ref\HorizonFutureVest.Application.dll

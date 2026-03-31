@@ -1,0 +1,24 @@
+﻿@model Application.ViewModels.ReturnRateConfigViewModel
+
+@{
+    ViewData["Title"] = "Eliminar Configuración de Tasa de Retorno";
+}
+
+<div class="container mt-4">
+    <div class="card border-danger">
+        <div class="card-body">
+            <h2 class="mb-4 text-danger">Eliminar Configuración de Tasa de Retorno</h2>
+            <h4 class="mb-3">¿Estás seguro que quieres eliminar esta configuración?</h4>
+            <div class="mb-4">
+                <strong>Tasa Mínima:</strong> @Model.MinRate<br />
+                <strong>Tasa Máxima:</strong> @Model.MaxRate
+            </div>
+            <form asp-action="Delete">
+                <input type="hidden" asp-for="Id" />
+                <button type="submit" class="btn btn-danger">Eliminar</button>
+                <a asp-action="Index" class="btn btn-secondary ms-2">Cancelar</a>
+            </form>
+        </div>
+    </div>
+</div>
+
