@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("HorizonFutureVest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b0e7971d61febc4dcba1a6b6675377a51d33e95")]
 [assembly: System.Reflection.AssemblyProductAttribute("HorizonFutureVest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HorizonFutureVest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -22,3 +22,4 @@ C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest
 C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest\Persistence\obj\Debug\net9.0\refint\Persistence.dll
 C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest\Persistence\obj\Debug\net9.0\Persistence.pdb
 C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest\Persistence\obj\Debug\net9.0\ref\Persistence.dll
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest\Persistence\obj\Debug\net9.0\Persistence.sourcelink.json

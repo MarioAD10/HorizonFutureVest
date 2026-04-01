@@ -1,9 +1,11 @@
 ﻿using Application.Interfaces;
 using Application.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HorizonFutureVest.Web.Controllers
 {
+    [Authorize]
     public class CountryIndicatorsController : Controller
     {
         private readonly ICountryIndicatorService _service;

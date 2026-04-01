@@ -1,9 +1,11 @@
 ﻿using Application.Interfaces;
 using Application.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HorizonFutureVest.Controllers
 {
+    [Authorize]
     public class CountriesController : Controller
     {
         private readonly ICountryService _countryService;

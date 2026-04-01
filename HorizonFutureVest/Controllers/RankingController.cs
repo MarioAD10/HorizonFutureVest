@@ -1,8 +1,10 @@
 ﻿using Application.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HorizonFutureVest.Web.Controllers
 {
+    [Authorize]
     public class RankingController : Controller
     {
         private readonly IRankingService _rankingService;

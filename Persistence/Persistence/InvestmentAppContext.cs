@@ -1,9 +1,11 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using Persistence.Entities;
 
 namespace Persistence.Persistence
 {
-    public class InvestmentAppContext : DbContext
+    public class InvestmentAppContext : IdentityDbContext<IdentityUser>
     {
         public InvestmentAppContext(DbContextOptions<InvestmentAppContext> options) : base(options) { }
 
@@ -14,9 +16,9 @@ namespace Persistence.Persistence
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-             base.OnModelCreating(modelBuilder);
+            base.OnModelCreating(modelBuilder);
 
-            //Configuración única: nombre de país no se repite
+            // Configuración única: nombre de país no se repite
             modelBuilder.Entity<Country>()
                 .HasIndex(c => c.Name)
                 .IsUnique();

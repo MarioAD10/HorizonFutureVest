@@ -28,3 +28,4 @@ C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest
 C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest\Application\obj\Debug\net9.0\refint\Application.dll
 C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest\Application\obj\Debug\net9.0\Application.pdb
 C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest\Application\obj\Debug\net9.0\ref\Application.dll
+C:\Users\Owner\Desktop\ITLA\5TO CUATRIMESTRE\Programación III\HorizonFutureVest\HorizonFutureVest\Application\obj\Debug\net9.0\Application.sourcelink.json

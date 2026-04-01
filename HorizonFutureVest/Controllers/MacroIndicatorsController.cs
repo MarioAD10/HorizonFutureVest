@@ -1,9 +1,11 @@
 ﻿using Application.Interfaces;
 using Application.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HorizonFutureVest.Web.Controllers
 {
+    [Authorize]
     public class MacroIndicatorsController : Controller
     {
         private readonly IMacroIndicatorService _service;

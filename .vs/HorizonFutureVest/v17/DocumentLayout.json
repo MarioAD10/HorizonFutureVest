@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|c:\\users\\owner\\desktop\\itla\\5to cuatrimestre\\programaci\u00F3n iii\\horizonfuturevest\\horizonfuturevest\\horizonfuturevest\\views\\countries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|solutionrelative:horizonfuturevest\\views\\countries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|c:\\users\\owner\\desktop\\itla\\5to cuatrimestre\\programaci\u00F3n iii\\horizonfuturevest\\horizonfuturevest\\horizonfuturevest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|solutionrelative:horizonfuturevest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|c:\\users\\owner\\desktop\\itla\\5to cuatrimestre\\programaci\u00F3n iii\\horizonfuturevest\\horizonfuturevest\\horizonfuturevest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|solutionrelative:horizonfuturevest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|c:\\users\\owner\\desktop\\itla\\5to cuatrimestre\\programaci\u00F3n iii\\horizonfuturevest\\horizonfuturevest\\horizonfuturevest\\controllers\\returnrateconfigscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|solutionrelative:horizonfuturevest\\controllers\\returnrateconfigscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|c:\\users\\owner\\desktop\\itla\\5to cuatrimestre\\programaci\u00F3n iii\\horizonfuturevest\\horizonfuturevest\\horizonfuturevest\\controllers\\rankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|solutionrelative:horizonfuturevest\\controllers\\rankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|c:\\users\\owner\\desktop\\itla\\5to cuatrimestre\\programaci\u00F3n iii\\horizonfuturevest\\horizonfuturevest\\horizonfuturevest\\controllers\\macroindicatorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|solutionrelative:horizonfuturevest\\controllers\\macroindicatorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|c:\\users\\owner\\desktop\\itla\\5to cuatrimestre\\programaci\u00F3n iii\\horizonfuturevest\\horizonfuturevest\\horizonfuturevest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|solutionrelative:horizonfuturevest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|c:\\users\\owner\\desktop\\itla\\5to cuatrimestre\\programaci\u00F3n iii\\horizonfuturevest\\horizonfuturevest\\horizonfuturevest\\controllers\\countryindicatorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|solutionrelative:horizonfuturevest\\controllers\\countryindicatorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|c:\\users\\owner\\desktop\\itla\\5to cuatrimestre\\programaci\u00F3n iii\\horizonfuturevest\\horizonfuturevest\\horizonfuturevest\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|solutionrelative:horizonfuturevest\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|c:\\users\\owner\\desktop\\itla\\5to cuatrimestre\\programaci\u00F3n iii\\horizonfuturevest\\horizonfuturevest\\horizonfuturevest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|solutionrelative:horizonfuturevest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|c:\\users\\owner\\desktop\\itla\\5to cuatrimestre\\programaci\u00F3n iii\\horizonfuturevest\\horizonfuturevest\\horizonfuturevest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18561E4A-AA29-48A7-AACD-B45927E6C7A9}|HorizonFutureVest\\HorizonFutureVest.csproj|solutionrelative:horizonfuturevest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,66 +47,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Views\\Countries\\Create.cshtml",
-              "RelativeDocumentMoniker": "HorizonFutureVest\\Views\\Countries\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Views\\Countries\\Create.cshtml",
-              "RelativeToolTip": "HorizonFutureVest\\Views\\Countries\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HorizonFutureVest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HorizonFutureVest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-31T20:13:56.637Z",
+              "WhenOpened": "2026-04-01T01:15:07.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "HorizonFutureVest\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "HorizonFutureVest\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-31T20:13:39.497Z",
+              "Title": "ReturnRateConfigsController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Controllers\\ReturnRateConfigsController.cs",
+              "RelativeDocumentMoniker": "HorizonFutureVest\\Controllers\\ReturnRateConfigsController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Controllers\\ReturnRateConfigsController.cs",
+              "RelativeToolTip": "HorizonFutureVest\\Controllers\\ReturnRateConfigsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T01:14:23.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CountriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Controllers\\CountriesController.cs",
-              "RelativeDocumentMoniker": "HorizonFutureVest\\Controllers\\CountriesController.cs",
-              "ToolTip": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Controllers\\CountriesController.cs",
-              "RelativeToolTip": "HorizonFutureVest\\Controllers\\CountriesController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAwwF4AAAAAAAAAAAAAAA==",
+              "Title": "RankingController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Controllers\\RankingController.cs",
+              "RelativeDocumentMoniker": "HorizonFutureVest\\Controllers\\RankingController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Controllers\\RankingController.cs",
+              "RelativeToolTip": "HorizonFutureVest\\Controllers\\RankingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T20:12:58.324Z",
+              "WhenOpened": "2026-04-01T01:14:19.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\appsettings.json",
-              "RelativeDocumentMoniker": "HorizonFutureVest\\appsettings.json",
-              "ToolTip": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\appsettings.json",
-              "RelativeToolTip": "HorizonFutureVest\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-31T20:12:24.104Z",
+              "Title": "MacroIndicatorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Controllers\\MacroIndicatorsController.cs",
+              "RelativeDocumentMoniker": "HorizonFutureVest\\Controllers\\MacroIndicatorsController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Controllers\\MacroIndicatorsController.cs",
+              "RelativeToolTip": "HorizonFutureVest\\Controllers\\MacroIndicatorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T01:14:14.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Program.cs",
-              "RelativeDocumentMoniker": "HorizonFutureVest\\Program.cs",
-              "ToolTip": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Program.cs",
-              "RelativeToolTip": "HorizonFutureVest\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HorizonFutureVest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HorizonFutureVest\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T20:11:33.939Z",
+              "WhenOpened": "2026-04-01T01:14:07.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryIndicatorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Controllers\\CountryIndicatorsController.cs",
+              "RelativeDocumentMoniker": "HorizonFutureVest\\Controllers\\CountryIndicatorsController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Controllers\\CountryIndicatorsController.cs",
+              "RelativeToolTip": "HorizonFutureVest\\Controllers\\CountryIndicatorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T01:13:59.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "HorizonFutureVest\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\ITLA\\5TO CUATRIMESTRE\\Programaci\u00F3n III\\HorizonFutureVest\\HorizonFutureVest\\HorizonFutureVest\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "HorizonFutureVest\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T01:13:31.108Z",
               "EditorCaption": ""
             }
           ]
